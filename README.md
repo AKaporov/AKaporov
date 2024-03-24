@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kaporov Artem</h1>
-<h3 align="center">A passionate backend development from Russia</h3>
+<p dir="auto">Software engineer in the commercial field since 2003. I have excellent knowledge in backend development on Java, Delphi. In general worked with monolithic, microservice.</p>
 
-<p dir="auto">Middle Software Engineer with more than 3 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.</p>
 
 
 - 📫 How to reach me **voropak@yandex.ru**
@@ -60,7 +58,11 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
   </a>  
   <a href="https://delphi.embarcadero.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="delphi"/> 
+  </a>
+  <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="access"/> 
   </a> 
+  
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akaporov&show_icons=true&locale=en&layout=compact" alt="akaporov" /></p>
