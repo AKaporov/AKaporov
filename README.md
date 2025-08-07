@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kaporov Artem</h1>
-<p dir="auto">Software engineer in the commercial field since 2003. I have excellent knowledge in backend development on Java, Delphi. In general worked with monolithic, microservice.</p>
+<p dir="auto">Software engineer in the commercial field since 2003. I have excellent knowledge in backend development on Java, Delphi, SQL, PostgreSQL. In general worked with monolithic, microservice.</p>
 
 - 📫 How to reach me **voropak@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/KaporovArtem" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/afaa74bcd8ebafeffb8c818bfa55e4b4923498b32ccbb1189fcc170fd43b490c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" style="max-width: 100%;">
 </a>
 </p>
 
